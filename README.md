@@ -8,13 +8,10 @@ GhanaLLM uses a standardized LoRA approach with `unsloth/Qwen3-4B-Instruct-2507`
 
 ## Available Models
 
-### Ga Code Instruct
-- **Author:** Mich-Seth Owusu
-- **Description:** Trained on generic programming Q&A tasks in Ga language
+| **Model Name**       | **Author**         | **Description**                                             |
+|-----------------------|--------------------|-------------------------------------------------------------|
+| Twi Code Instruct     | Mich-Seth Owusu    | Trained on generic programming Q&A tasks in Twi language    |
 
-### Twi Code Instruct
-- **Author:** Mich-Seth Owusu
-- **Description:** Trained on generic programming Q&A tasks in Twi language
 
 ## Contributing
 
