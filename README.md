@@ -32,7 +32,7 @@ Improve model performance using our fine-tuning notebook (link to be added).
 
 1. **Create a Hugging Face account** and obtain your username and access token
 
-2. **Select a dataset** from Hugging Face with question and answer columns, then copy the dataset ID
+2. **Select a dataset** from Hugging Face with question and answer columns, then copy the dataset ID eg. theblackcat102/alexa-qa is the id for the dataset at this link - https://huggingface.co/datasets/theblackcat102/alexa-qa
 
 3. **Prepare your dataset** using our data preparation notebook:
 
