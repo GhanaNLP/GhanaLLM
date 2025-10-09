@@ -1,6 +1,6 @@
 # GhanaLLM
 
-A community-driven project to create language models fine-tuned for indigenous Ghanaian languages.
+A community-driven project to create large language models fine-tuned for indigenous Ghanaian languages.
 
 ## Overview
 
