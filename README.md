@@ -8,9 +8,9 @@ GhanaLLM uses a standardized LoRA approach with `unsloth/Qwen3-4B-Instruct-2507`
 
 ## Available Models
 
-| **Model Name**       | **Author**         | **Description**                                             |
+| **Model Name**       | **Author**         | **Description and Demo Link**                                             |
 |-----------------------|--------------------|-------------------------------------------------------------|
-| Twi Code Instruct     | Mich-Seth Owusu    | Trained on generic programming Q&A tasks in Twi language    |
+| Twi Code Instruct     | Mich-Seth Owusu    | Coding assistance in Twi [Demo](https://huggingface.co/spaces/michsethowusu/code-in-twi)    |
 
 
 ## Contributing
