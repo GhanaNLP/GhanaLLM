@@ -10,7 +10,7 @@ GhanaLLM uses a standardized LoRA approach with `unsloth/Qwen3-4B-Instruct-2507`
 
 | **Model Name** | **Author** | **Description** | **Demo Link** |
 | :------------- | :------------- | :------------- | :------------- |
-| Opani Coder | Mich-Seth Owusu | Coding assistance in Twi | [Demo](https://huggingface.co/spaces/michsethowusu/code-in-twi) |
+| Opani Coder | Mich-Seth Owusu | Provides coding assistance in Twi | [Demo](https://huggingface.co/spaces/michsethowusu/code-in-twi) |
 
 
 
