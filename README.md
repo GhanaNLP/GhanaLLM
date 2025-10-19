@@ -36,7 +36,7 @@ Improve model performance using our fine-tuning notebook (link to be added).
 
 4. **Train and publish** your model with our training notebook:
 
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1LirzhiQzOOK1Cvf-Dm_yEMe8CncDwEw8?usp=sharing)
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1LdWBCwwIyKrNprhAJHos5ws0Kz-GgHug?usp=sharing)
 
 5. **Share your model URL** with us to be featured on the GhanaLLM project page
 
