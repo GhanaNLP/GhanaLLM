@@ -18,11 +18,6 @@ GhanaLLM uses a standardized LoRA approach with `unsloth/Llama-3.2-1B-Instruct` 
 
 We welcome contributions in several ways:
 
-### Test and Provide Feedback
-Use our testing notebook to evaluate models and share your feedback.
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16Ld0vcjHq78b3HmAt58JrT6w1BchFxja?usp=sharing)
-
 ### Train Your Own Model
 Follow the steps below to create and publish your own model.
 
