@@ -8,9 +8,9 @@ GhanaLLM uses a standardized LoRA approach with `unsloth/Llama-3.2-1B-Instruct` 
 
 ## Available Models
 
-| **Model Name** | **Author** | **Description** | **Demo Link** |
+| **Model Name** | **Author** | **Description** | **Links** |
 | :------------- | :------------- | :------------- | :------------- |
-| Opani Coder | Mich-Seth Owusu | Provides coding assistance in Twi | [Demo](https://huggingface.co/spaces/michsethowusu/Opani-Coder-DEMO) |
+| Opani Coder | Mich-Seth Owusu | Provides coding assistance in Twi | [Model](https://michsethowusu/opani-coder_1b-merged-16bit) [Demo](https://huggingface.co/spaces/michsethowusu/Opani-Coder-DEMO) |
 
 
 
