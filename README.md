@@ -4,7 +4,7 @@ A community-driven project to create large language models fine-tuned for indige
 
 ## Overview
 
-GhanaLLM uses a standardized LoRA approach with `unsloth/Qwen3-4B-Instruct-2507` to simplify model training and produce portable output files for easy inference and fine-tuning.
+GhanaLLM uses a standardized LoRA approach with `unsloth/Llama-3.2-1B-Instruct` to simplify model training and produce portable output files for easy inference and fine-tuning.
 
 ## Available Models
 
