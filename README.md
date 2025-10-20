@@ -10,7 +10,7 @@ As research around large language models (LLMs) continues to evolve, new opportu
 
 | **Model Name** | **Author** | **Description** | **Links** |
 | :------------- | :------------- | :------------- | :------------- |
-| Opani Coder | Mich-Seth Owusu | Provides coding assistance in Twi | [Model](https://michsethowusu/opani-coder_1b-merged-16bit)  [Demo](https://huggingface.co/spaces/michsethowusu/Opani-Coder-DEMO) |
+| Opani Coder | Mich-Seth Owusu | Provides coding assistance in Twi | [Model](https://michsethowusu/opani-coder_1b-merged-16bit) \| [Demo](https://huggingface.co/spaces/michsethowusu/Opani-Coder-DEMO) |
 
 You can share your model to add to this list by sending to michsethowusu@gmail.com.
 
