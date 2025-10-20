@@ -1,10 +1,10 @@
 # GhanaLLM
 
-A community-driven project to create large language models fine-tuned for indigenous Ghanaian languages.
+A community-driven project to experiment large language models fine-tuned for indigenous Ghanaian languages.
 
 ## Overview
 
-GhanaLLM uses a standardized LoRA approach with `unsloth/Llama-3.2-1B-Instruct` to simplify model training and produce portable output files for easy inference and fine-tuning.
+As research around large language models (LLMs) continues to evolve, new opportunities are emerging to address long-standing challenges faced by low-resource languages. The GhanaLLM Project aims to establish a common reference point and standardized training approach for developing LLMs capable of performing a wide range of tasks in Ghanaian languages — all built upon a shared base model and powered by community support and experience sharing. Our base model is [Llama-3.2-1B](https://huggingface.co/meta-llama/Llama-3.2-1B-Instruct) due to its broad multilingual training and resource efficient size.
 
 ## Available Models
 
