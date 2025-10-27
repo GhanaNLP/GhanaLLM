@@ -31,15 +31,11 @@ Improve model performance using our fine-tuning notebook (link to be added).
 
 2. **Request access to a community dataset** You can visit our community page on hugging face to request any acess to the datasets in the Ghana LLM collection for training models. https://huggingface.co/collections/ghananlpcommunity/ghana-llm. Before requesting access, please read this link about contributing - https://github.com/GhanaNLP/Community-Docs/blob/main/CONTRIBUTING.md
 
-3. **Prepare your dataset** using our data preparation notebook:
-
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1445avuPRt9kjcr-cWO_NYSTBPIoHgksL?usp=sharing)
-
-4. **Train and publish** your model with our training notebook:
+3. **Train and publish** your model with our training notebook:
 
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1LdWBCwwIyKrNprhAJHos5ws0Kz-GgHug?usp=sharing)
 
-5. **Share your model URL** with us to be featured on the GhanaLLM project page
+4. **Share your model URL** with us to be featured on the GhanaLLM project page
 
 ## Support
 
