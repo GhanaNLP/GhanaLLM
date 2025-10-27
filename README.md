@@ -27,9 +27,9 @@ Improve model performance using our fine-tuning notebook (link to be added).
 
 ## Training and Publishing Your Model
 
-1. **Create a Hugging Face account** and obtain your username and access token
+1. **Create a Hugging Face account** and obtain your username and access token. You will need this for getting access to any of our community datasets anfd publishing your model. 
 
-2. **Select a dataset** from Hugging Face which has question and answer columns, then copy the dataset ID e.g. the ID for [this dataset](https://huggingface.co/datasets/theblackcat102/alexa-qa) is `theblackcat102/alexa-qa`.
+2. **Request access to a community dataset** You can visit our community page on hugging face to request any acess to the datasets in the Ghana LLM collection for training models. https://huggingface.co/collections/ghananlpcommunity/ghana-llm. Before requesting access, please read this link about contributing - https://github.com/GhanaNLP/Community-Docs/blob/main/CONTRIBUTING.md
 
 3. **Prepare your dataset** using our data preparation notebook:
 
