@@ -14,9 +14,6 @@ As research around large language models (LLMs) continues to evolve, new opportu
 | [Opani Translate](https://huggingface.co/ghananlpcommunity/opani-translate_1b-merged-16bit) | [english-twi-translate-llm-instruct-160k](https://huggingface.co/datasets/ghananlpcommunity/english-twi-translate-llm-instruct-160k) | Provides translation from English to Twi | [Demo](https://huggingface.co/spaces/ghananlpcommunity/Opani-Translate-Demo) | [Mich-Seth Owusu](https://www.linkedin.com/in/mich-seth-owusu/) |
 
 
-You’re welcome to contribute! To have your model featured in this list, please share the details via email at [michsethowusu@gmail.com](mailto:michsethowusu@gmail.com).
-
-
 ## Contributing
 
 We welcome contributions in several ways:
@@ -42,6 +39,7 @@ Improve model performance using our fine-tuning notebook (link to be added).
 ## Support
 
 For questions about this project, contact us at: natural.language.processing.gh@gmail.com
+To have your model featured in this list, please send the details to [michsethowusu@gmail.com](mailto:michsethowusu@gmail.com).
 
 ---
 
