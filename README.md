@@ -11,7 +11,7 @@ As research around large language models (LLMs) continues to evolve, new opportu
 | **Model Name** | **Training Dataset** | **Description** | **Links** |
 | :------------- | :------------- | :------------- | :------------- |
 | Opani Coder | [Code-170k-twi](https://huggingface.co/datasets/ghananlpcommunity/Code-170k-twi) | Provides coding assistance in Twi | [Model](https://huggingface.co/ghananlpcommunity/opani-coder_1b-merged-16bit) \| [Demo](https://huggingface.co/spaces/ghananlpcommunity/Opani-Coder-DEMO) |
-| Opani Translator | [english-twi-translate-llm-instruct-160k](https://huggingface.co/datasets/ghananlpcommunity/english-twi-translate-llm-instruct-160k) | Provides translation from english to Twi | [Model](https://huggingface.co/ghananlpcommunity/opani-translate_1b-merged-16bit) \| [Demo](https://huggingface.co/spaces/ghananlpcommunity/Opani-Translate-Demo) |
+| Opani Translate | [english-twi-translate-llm-instruct-160k](https://huggingface.co/datasets/ghananlpcommunity/english-twi-translate-llm-instruct-160k) | Provides translation from english to Twi | [Model](https://huggingface.co/ghananlpcommunity/opani-translate_1b-merged-16bit) \| [Demo](https://huggingface.co/spaces/ghananlpcommunity/Opani-Translate-Demo) |
 
 You’re welcome to contribute! To have your model featured in this list, please share the details via email at [michsethowusu@gmail.com](mailto:michsethowusu@gmail.com).
 
