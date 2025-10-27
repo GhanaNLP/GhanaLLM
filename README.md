@@ -8,7 +8,7 @@ As research around large language models (LLMs) continues to evolve, new opportu
 
 ## Available Models
 
-| **Model** | **Training Dataset** | **Description** | **Links** | **Creator** |
+| **Model** | **Training Dataset** | **Description** | **Demo** | **Creator** |
 | :------------- | :------------- | :------------- | :------------- | :------------- |
 | [Opani Coder](https://huggingface.co/ghananlpcommunity/opani-coder_1b-merged-16bit) | [Code-170k-twi](https://huggingface.co/datasets/ghananlpcommunity/Code-170k-twi) | Provides coding assistance in Twi | [Demo](https://huggingface.co/spaces/ghananlpcommunity/Opani-Coder-DEMO) | [Mich-Seth Owusu](https://www.linkedin.com/in/mich-seth-owusu/) |
 | [Opani Translate](https://huggingface.co/ghananlpcommunity/opani-translate_1b-merged-16bit) | [english-twi-translate-llm-instruct-160k](https://huggingface.co/datasets/ghananlpcommunity/english-twi-translate-llm-instruct-160k) | Provides translation from English to Twi | [Demo](https://huggingface.co/spaces/ghananlpcommunity/Opani-Translate-Demo) | [Mich-Seth Owusu](https://www.linkedin.com/in/mich-seth-owusu/) |
