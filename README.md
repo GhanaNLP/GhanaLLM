@@ -24,16 +24,15 @@ You can visit our [community page on Hugging Face](https://huggingface.co/collec
 Before requesting access, please read our [contribution guidelines](https://github.com/GhanaNLP/Community-Docs/blob/main/CONTRIBUTING.md).
 
 
-3. **Train and publish** your model with our training notebook:
+3. **Train and publish** your model with one of our training notebooks below:
 
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1LdWBCwwIyKrNprhAJHos5ws0Kz-GgHug?usp=sharing)
+  Training Coding Assistants - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1LdWBCwwIyKrNprhAJHos5ws0Kz-GgHug?usp=sharing) | [Tutorial Video](https://www.youtube.com/watch?v=qr9dzRovLkM)
 
 4. **Share your model URL** with us to be featured on the GhanaLLM project page
 
 ## Support
 
-For questions about this project, contact us at: natural.language.processing.gh@gmail.com
-To have your model featured in this list, please send the details to [michsethowusu@gmail.com](mailto:michsethowusu@gmail.com).
+If you have any questions or diffculty using the notebooks, please send a message to our Community Lead - Mich-Seth Owusu [michsethowusu@gmail.com](mailto:michsethowusu@gmail.com).
 
 ---
 
