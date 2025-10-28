@@ -25,7 +25,7 @@ Before requesting access, please read our [contribution guidelines](https://gith
 
 
 3. **Get started training!** Open one of our ready-to-use notebooks:  
-   💻 **Coding Assistants** — [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1LdWBCwwIyKrNprhAJHos5ws0Kz-GgHug?usp=sharing) | [🎥 Watch the tutorial](https://www.youtube.com/watch?v=qr9dzRovLkM)
+   💻 **Train a Coding Assistant Model** — [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1LdWBCwwIyKrNprhAJHos5ws0Kz-GgHug?usp=sharing) | [🎥 Watch the tutorial](https://www.youtube.com/watch?v=qr9dzRovLkM)
 
 4. Once your model is live, **share the URL** and we’ll feature it on the **GhanaLLM showcase**!
 
