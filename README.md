@@ -14,21 +14,15 @@ As research around large language models (LLMs) continues to evolve, new opportu
 | [Opani Translate](https://huggingface.co/ghananlpcommunity/opani-translate_1b-merged-16bit) | [english-twi-translate-llm-instruct-160k](https://huggingface.co/datasets/ghananlpcommunity/english-twi-translate-llm-instruct-160k) | Provides translation from English to Twi | [Demo](https://huggingface.co/spaces/ghananlpcommunity/Opani-Translate-Demo) | [Mich-Seth Owusu](https://www.linkedin.com/in/mich-seth-owusu/) |
 
 
-## Contributing
-
-We welcome contributions in several ways:
-
-### Train Your Own Model
-Follow the steps below to create and publish your own model.
-
-### Fine-tune Existing Models
-Improve model performance using our fine-tuning notebook (link to be added).
-
 ## Training and Publishing Your Model
 
 1. **Create a Hugging Face account** and obtain your username and access token. You will need this for getting access to any of our community datasets anfd publishing your model. 
 
-2. **Request access to a community dataset** You can visit our community page on hugging face to request any acess to the datasets in the Ghana LLM collection for training models. https://huggingface.co/collections/ghananlpcommunity/ghana-llm. Before requesting access, please read this link about contributing - https://github.com/GhanaNLP/Community-Docs/blob/main/CONTRIBUTING.md
+2. **Request access to a community dataset**  
+You can visit our [community page on Hugging Face](https://huggingface.co/collections/ghananlpcommunity/ghana-llm) to request access to the datasets in the **Ghana LLM** collection for training models.  
+
+Before requesting access, please read our [contribution guidelines](https://github.com/GhanaNLP/Community-Docs/blob/main/CONTRIBUTING.md).
+
 
 3. **Train and publish** your model with our training notebook:
 
